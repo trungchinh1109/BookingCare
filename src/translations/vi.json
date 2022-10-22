@@ -52,5 +52,9 @@
         "image": "Ảnh đại diện",
         "edit": "Lưu thay đổi"
 
+    },
+    "home-page":{
+        "outstanding-doctor": "Bác Sĩ Nổi Bật",
+        "more-infor": "Xem Thêm"
     }
 }
