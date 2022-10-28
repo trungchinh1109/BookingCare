@@ -35,6 +35,9 @@
             "handbook":"Cẩm nang",
             "manage-handbook":"Quản lý cẩm nang"
             
+        },
+        "doctor":{
+            "manage-schedule":"Quản Lý Lịch Khám Bệnh"
         }
     },
     "manage-user":{
@@ -56,5 +59,11 @@
     "home-page":{
         "outstanding-doctor": "Bác Sĩ Nổi Bật",
         "more-infor": "Xem Thêm"
+    },
+    "manage-schedule":{
+        "title": "Quản Lý Kế Hoạch Khám Bệnh Bác Sĩ",
+        "choose-doctor": "Chọn Bác Sĩ : ",
+        "choose-date": "Chọn Ngày : ",
+        "save": "Lưu Thông Tin"
     }
 }
