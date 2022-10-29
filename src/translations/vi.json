@@ -65,5 +65,11 @@
         "choose-doctor": "Chọn Bác Sĩ : ",
         "choose-date": "Chọn Ngày : ",
         "save": "Lưu Thông Tin"
+    },
+    "patient":{
+        "detail-doctor":{
+            "schedule": "Lịch Khám",
+            "no-schedule": "Bác sĩ không có lịch hẹn trong ngày này, xin vui lòng chọn ngày khác."
+        }
     }
 }
