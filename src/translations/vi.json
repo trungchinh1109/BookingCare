@@ -70,6 +70,28 @@
         "detail-doctor":{
             "schedule": "Lịch Khám",
             "no-schedule": "Bác sĩ không có lịch hẹn trong ngày này, xin vui lòng chọn ngày khác."
+        },
+        "extra-infor-doctor":{
+            "text-address": "Địa Chỉ Khám",
+            "price": "Giá Khám: ",
+            "detail": "Xem Chi Tiết",
+            "payment": "Người bệnh có thể thanh toán chi phí bằng hình thức :",
+            "hide-price": "Ẩn Bảng Giá"
+        }
+    },
+    "admin" :{
+        "manage-doctor": {
+            "title" : "Tạo thêm thông tin Bác Sĩ",
+            "select-doctor": "Chọn Bác Sĩ",
+            "intro": "Thông tin giới thiệu:",
+            "add": "Tạo Thông Tin",
+            "save": "Lưu Thông Tin",
+            "price": "Giá Khám Bệnh",
+            "payment": "Phương Thức Thanh Toán",
+            "province": "Tỉnh Thành",
+            "nameClinic": "Tên Phòng Khám",
+            "addressClinic": "Địa Chỉ Phòng Khám",
+            "note": "Ghi Chú"
         }
     }
 }

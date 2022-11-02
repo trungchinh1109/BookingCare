@@ -81,7 +81,6 @@ class DoctorSchedule extends Component {
                     allAvailableTime: res.data ? res.data : []
                 })
             }
-            console.log('trungchinh check res schedule from react: ', res)
         }
     }
     render() {
